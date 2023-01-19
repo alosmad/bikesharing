@@ -1,9 +1,12 @@
-# bikesharing
 Module 15
+NY Citibike analysis for Des moines project
 
-Dudas a resolver:
-15.3.1 - Tamaña de los círculos
+Overview of the analysis: Explain the purpose of this analysis.
+The analysis has the purpose of having data to support the Des Moines business proposal for bike sharing implementation.
 
-Voy en el challenge, Pandas
+Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image
+
+
+Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 
