@@ -1,10 +1,12 @@
 # Module 15
-NY Citibike analysis for Des moines project
+**NY Citibike analysis for Des moines project**
 
 **Overview of the analysis:**
 The analysis has the purpose of having data to support the Des Moines business proposal for bike sharing implementation.
 
-### Results: For supporting the analysis for Des Moines we have created the following visualizations in order to get to conclusions.
+### Results:
+
+For supporting the analysis for Des Moines we have created the following visualizations in order to get to conclusions.
 
 ![1_CheckoutTimesUser](https://github.com/alosmad/bikesharing/blob/3fe99db33b69775499864c05f296da46bae8d9e1/1_CheckoutTimesUser.png)
 
