@@ -1,10 +1,10 @@
-Module 15
+# Module 15
 NY Citibike analysis for Des moines project
 
-Overview of the analysis: Explain the purpose of this analysis.
+**Overview of the analysis:**
 The analysis has the purpose of having data to support the Des Moines business proposal for bike sharing implementation.
 
-Results: For supporting the analysis for Des Moines we have created the following visualizations in order to get to conclusions.
+### Results: For supporting the analysis for Des Moines we have created the following visualizations in order to get to conclusions.
 
 ![1_CheckoutTimesUser](https://github.com/alosmad/bikesharing/blob/3fe99db33b69775499864c05f296da46bae8d9e1/1_CheckoutTimesUser.png)
 
@@ -26,17 +26,17 @@ Although males use more the bikes there is no significant change in usage by wee
 
 Most of the users are suscribers, and for no suscribers we have most of the undefined gender which is natural since they tend to avoid sharing information.
 
-Summary: 
+***Summary:*** 
 
 For Des Moines implementation we need to focus on users that live nearby their work since it is evident that most of the usage is for work transportation, we don't have certainty if they are people that right now use their private car for going to work or if they take public transportation and they will substitute it for a bike.
 Below are two visualization that show that most of the top starting and ending locations are in high profile offices.
 It is important to consider that Des Moines is not a tourism city so the usage on Saturday and Sunday could decrease compared with NYC.
 
+![6_TopStarting](https://github.com/alosmad/bikesharing/blob/51f6d5a07e7dbf81239fbe6244e55e5b5ba2321e/6_TopStarting.png)
 
+![7_TopEnding](https://github.com/alosmad/bikesharing/blob/51f6d5a07e7dbf81239fbe6244e55e5b5ba2321e/7_TopEnding.png)
 
+**Alejandro Madrigal**
 
-
-
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
+**Data Analysis**
 
